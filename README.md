@@ -16,7 +16,7 @@ Windows Server administration and Active Directory management.
 
 Projects demonstrating Microsoft Azure, virtual machines, networking, and protocol analysis.
 
-➡️ [View Azure Computing & Networking Projects](./Azure-Computing-&-Networking)
+➡️ [View Azure Computing & Networking Projects](./Azure-Computing-and-Networking)
 
 ---
 
