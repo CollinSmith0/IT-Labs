@@ -1,39 +1,27 @@
-# IT-Labs
-
 # 💼 IT Projects Portfolio
 
-Welcome!
-
-This repository contains my hands-on IT projects.
+Welcome to my collection of hands-on IT projects demonstrating skills in systems administration, cloud computing, networking, and help desk technologies.
 
 ---
 
-# 🖥 Active Directory
+# 🖥️ Active Directory
 
-Projects involving Windows Server administration.
+Windows Server administration and Active Directory management.
 
 ➡️ [View Active Directory Projects](./Active-Directory)
 
 ---
 
-# ☁ Azure
+# ☁️ Azure Computing & Networking
 
-Azure infrastructure projects.
+Projects demonstrating Microsoft Azure, virtual machines, networking, and protocol analysis.
 
-➡️ [View Azure Projects](./Azure)
-
----
-
-# 🎫 osTicket
-
-Help Desk implementation labs.
-
-➡️ [View osTicket Projects](./osTicket)
+➡️ [View Azure Computing & Networking Projects](./Azure-Computing-&-Networking)
 
 ---
 
-# 🌐 Networking
+# 🎫 Ticketing
 
-Networking and Wireshark labs.
+Projects focused on implementing and managing an osTicket help desk environment.
 
-➡️ [View Networking Projects](./Networking)
+➡️ [View Ticketing Projects](./Ticketing)
